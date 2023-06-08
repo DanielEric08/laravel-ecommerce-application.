@@ -1,5 +1,9 @@
+.idea
 /.phpunit.cache
 /node_modules
+/public/backend
+/public/frontend
+/public/uploads
 /public/build
 /public/hot
 /public/storage
